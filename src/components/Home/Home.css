@@ -1,0 +1,18 @@
+.parentDiv div{
+    background-color:#AFD4C0; 
+    height: 700px;
+}
+
+.white div{
+    background-color: white;
+    width: 700px;
+    height: 700px;
+    position: relative;
+    left: 300px;
+}
+.heading{
+    position: absolute;
+    top: 200px;
+    left: 250px;
+    font-size: 30px;
+}
